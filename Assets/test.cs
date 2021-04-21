@@ -7,7 +7,7 @@ public class test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        string str = "合成大西瓜~~";
+        string str = "合成大西瓜222222~~";
 
     }
 
